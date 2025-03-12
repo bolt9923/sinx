@@ -54,7 +54,7 @@ async def init():
     await userbot.start()
     await BAD.start()
     await BAD.decorators()
-    LOGGER("BADMUSIC").info("BADMUSIC STARTED SUCCESSFULLY 🕊️")
+    LOGGER("BADMUSIC").info("SHINU STARTED SUCCESSFULLY 🕊️")
     await idle()
 
 
