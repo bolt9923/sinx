@@ -1,4 +1,4 @@
-        「 🕊️⃝‌ٖٖٖٖ ‌ٖٖٖٖٖ🦋𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𝐁α∂ 𝐌υи∂α🌸❤️ᥫ᭡፝֟፝֟ 」
+        ✞𝐃𝐄𝐌𝐎𝐍 𓅓 𝚔𝙸𝙽𝙶 ☜♔
 </h2>
 
 <p align="center"><a href="https://t.me/BHUL_TO_NAHI_GAYE"><img src="https://graph.org/file/214a0a41f7d75c0f90758.jpg"></a></p>
@@ -9,7 +9,7 @@
 
 
 
-1 ✧ ᴛɢ ɴᴀᴍᴇ  » ʙᴀᴅ ᴍᴜɴᴅᴀ 🥵
+1 ✧ ᴛɢ ɴᴀᴍᴇ  » ✞𝐃𝐄𝐌𝐎𝐍 𓅓 𝚔𝙸𝙽𝙶 ☜♔ 🥵
 
 
 
@@ -70,19 +70,19 @@
 
 
 
-11 ✧ ғᴇʟʟɪɴɢ ʙᴀᴅ ᴄʜᴀɴɴᴇʟ » 😈 @FELLINGS_BAD 😈
+11 ✧ ғᴇʟʟɪɴɢ ʙᴀᴅ ᴄʜᴀɴɴᴇʟ » 😈 https://t.me/+Z1KURmoPcT9lNjVl 😈
 
 
 
 
 
-12 ✧ ᴄʜᴀᴛ ɢʀᴏᴜᴘ » 👼 @II_CHAT_HUB_II 😈
+12 ✧ ᴄʜᴀᴛ ɢʀᴏᴜᴘ » 👼 https://t.me/huntermafiya 😈
 
 
 
 
 
-13 ✧ ᴜᴘᴅᴀᴛᴇ ɢʀᴏᴜᴘ » 👼 @ll_THE_BAD_BOT_ll 😈
+13 ✧ ᴜᴘᴅᴀᴛᴇ ɢʀᴏᴜᴘ » 👼 @BHUL_TO_NAHI_GAYE 😈
 
 
 
