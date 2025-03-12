@@ -67,11 +67,11 @@ class BADBOT(Client):
              [
                     InlineKeyboardButton(
                         text="๏ ᴏᴡɴᴇʀ ๏",
-                        url=f"https://t.me/II_BAD_BABY_II",
+                        url=f"https://t.me/BHUL_TO_NAHI_GAYE",
                     ),
                     InlineKeyboardButton(
                         text="๏ ᴜᴘᴅᴀᴛᴇ ๏",
-                        url=f"https://t.me/HEROKUBIN_01",
+                        url=f"https://t.me/+Z1KURmoPcT9lNjVl",
                     )
               ],
                 [
