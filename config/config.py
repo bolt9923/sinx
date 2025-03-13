@@ -56,7 +56,7 @@ EXTRA_PLUGINS = getenv(
 
 EXTRA_PLUGINS_REPO = getenv(
     "EXTRA_PLUGINS_REPO",
-    "https://github.com/Badhacker98/BADMUSIC_PLUGIN",
+    "https://github.com/bolt9923/sinx",
 )
 # Fill here the external plugins repo where plugins that you want to load
 
@@ -78,14 +78,14 @@ LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "7009601543").split())
+    map(int, getenv("OWNER_ID", "7998952043").split())
 )  # Input type must be interger
 
 
 # make your bots privacy from telegra.ph and put your url here
 
 PRIVACY_LINK = getenv(
-    "PRIVACY_LINK", "https://envs.sh/SL4.jpg"
+    "PRIVACY_LINK", "https://t.me/+Z1KURmoPcT9lNjVl"
 )
 
 
@@ -99,7 +99,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Badhacker98/BADMUSIC",
+    "https://github.com/bolt9923/sinx",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Bad")
 
@@ -212,12 +212,12 @@ START_IMG_URL = getenv(
 
 UC_IMG_URL = getenv(
     "UC_IMG_URL",
-    "https://envs.sh/pMb.jpg",
+    "https://i.imghippo.com/files/vA7972cM.jpg",
 )
 
 BOT_IMG_URL = getenv(
     "BOT_IMG_URL",
-    "https://envs.sh/SY-.jpg",
+    "https://i.imghippo.com/files/vA7972cM.jpg",
 )
 
 PING_IMG_URL = getenv(
